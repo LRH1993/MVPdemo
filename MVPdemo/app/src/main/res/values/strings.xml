@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVPdemo</string>
+    <string name="user_name">帐号</string>
+    <string name="password">密码</string>
+    <string name="log_in">登录</string>
+    <string name="title_activity_main">MVP Example</string>
+    <string name="username_error">帐号不能为空</string>
+    <string name="password_error">密码不能为空</string>
+</resources>
